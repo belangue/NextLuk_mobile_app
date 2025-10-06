@@ -1,0 +1,6 @@
+[33m86300b0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m)[m Add project without API keys
+[33m420fffa[m[33m ([m[1;32mmaster[m[33m)[m Add modifications to the project
+[33me106b9c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m first commit
+[33m69ea834[m second commit
+[33me8aa6c8[m Update views.py: organize code and add GET method to login endpoint
+[33m59e0c9f[m first commit
